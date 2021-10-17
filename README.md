@@ -8,6 +8,6 @@ Group: Adriano Marabuco, Jair Paulino, Sara Coutinho.
 
 
 Focusing on the actual problem of traffic accidents, we idealized one solution to solve this base on the velocity data. 
-We did a study considering the spatial-temporal vision, focusing on data from Recife-Brazil, and the time considering 12 hours of registers. 
-We did a neural network to modeling the input, based on velocite data, and output , based on accident registers. 
+We did a study considering the spatial-temporal vision, focusing on data from Recife-Brazil, and the window time considering 12 hours. 
+We did a neural network to modeling the solution using input, based on velocite data, and output , based on accident registers. 
 
